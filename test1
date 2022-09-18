@@ -1,4 +1,9 @@
 this is text1
+<<<<<<< HEAD
 test1
 test2
 test3
+=======
+test 3
+test 4
+>>>>>>> branch 'main' of https://github.com/Somesh8855/testdata.git
